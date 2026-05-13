@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225240069
+# Name:KAVIDHARSHINI RAMESH
+# Date:13.05.26
 
 
 # AIM:
@@ -38,6 +38,8 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+<img width="891" height="747" alt="Screenshot 2026-05-12 215813" src="https://github.com/user-attachments/assets/beea09e5-8556-4a5e-95bc-1d1cea7ba31c" />
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
